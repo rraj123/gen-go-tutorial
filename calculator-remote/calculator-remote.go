@@ -13,7 +13,7 @@ import (
 	"strconv"
 	"strings"
 	thrift "github.com/apache/thrift/lib/go/thrift"
-	"shared"
+	shared "github.com/rraj123/gen-go-shared" 
 	"tutorial"
 )
 
