@@ -11,7 +11,7 @@ import (
 	thrift "github.com/apache/thrift/lib/go/thrift"
 	"strings"
 	"regexp"
-	"shared"
+	shared "github.com/rraj123/gen-go-tutorial" 
 
 )
 
